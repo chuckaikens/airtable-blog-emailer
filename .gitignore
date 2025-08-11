@@ -1,0 +1,37 @@
+# Environment variables
+.env
+.env.local
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+venv/
+env/
+ENV/
+.venv
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# Output files
+blog_posts_due.json
+urgent_posts.json
+blog_posts.csv
+blog_posts_report.md
+email_content.html
+email_content.txt
+email_draft.eml
+gmail_compose_url.txt
+email_send_log.json
+*.log
+
+# OS files
+.DS_Store
+Thumbs.db
